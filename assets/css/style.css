@@ -36,21 +36,23 @@ header nav ul li a {
     padding: 50px 50px 0px 50px;
 }
 .hero-profile div {
-padding-left: 130px;
-padding-right: 130px;
+padding-left: 150px;
+padding-right: 150px;
 }
 .name {
   font-weight: bold;
   padding-top: 10px;
-  font-size: 150%;
+  font-size: 230%;
 }
 .job-title {
   padding-top: 10px;
+  font-size: 120%;
 }
 .links a {
   text-decoration: none;
 }
 .links {
+    padding-left: 50px !important;
     padding-top: 10px;
 }
 .links ul {
@@ -59,4 +61,5 @@ padding-right: 130px;
 }
 .links ul li a {
     padding-right: 10px;
+    font-size: 150%;
 }
